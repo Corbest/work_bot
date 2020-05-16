@@ -8,7 +8,6 @@ public class WorkBotApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(WorkBotApplication.class, args);
-        System.out.println();
-    }
 
+    }
 }
